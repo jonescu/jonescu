@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in learning web development 
+- 👀 I’m interested in all things web development.
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript, React, Node, Express, and MongoDB.
 
 
